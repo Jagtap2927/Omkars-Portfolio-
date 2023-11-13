@@ -1,7 +1,7 @@
 # Omkars-Portfolio-
 This is my Portfolio Website...
 Nav & Home:
-![image](https://github.com/Jagtap2927/Omkars-Portfolio-/assets/107162121/378c3bac-c25e-4c59-b8d2-bd5127001ffa)
+![image](https://github.com/Jagtap2927/Omkars-Portfolio-/assets/107162121/46e61e25-9d37-4749-a389-72e48662250a)
 About:
 ![image](https://github.com/Jagtap2927/Omkars-Portfolio-/assets/107162121/60b61365-0ba0-421b-8f8a-b9a314dd0978)
 Skills:
